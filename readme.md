@@ -27,7 +27,7 @@
 <li> Criação do DER. </li>
     <blockquote align='right'> Acesse o Diagrama <a href='/DER.png'> clicando aqui </a> </blockquote>
 <li> Criação das Tabelas </li>
-    <blockquote align='right'> Acesse o Script <a href='/Script/Create%20Tables'> clicando aqui </a> </blockquote>
+    <blockquote align='right'> Acesse o Script <a href='/Scripts/Create%20Tables'> clicando aqui </a> </blockquote>
 
 
 
