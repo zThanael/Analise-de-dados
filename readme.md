@@ -28,7 +28,8 @@
     <blockquote align='right'> Acesse o Diagrama <a href='/DER.png'> clicando aqui </a> </blockquote>
 <li> Criação das Tabelas </li>
     <blockquote align='right'> Acesse o Script <a href='/Scripts/Create%20Tables'> clicando aqui </a> </blockquote>
-
+<li> Criação dos Inserts </li>
+    <blockquote align='right'> Acesse o Script <a href='/Scripts/Create%20Inserts'> clicando aqui </a> </blockquote>
 
 
 
