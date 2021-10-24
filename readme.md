@@ -25,9 +25,9 @@
 <h2>Desenvolvimento do Projeto </h2>
 <li> Analise das informações que conterão no banco de dados. </li>
 <li> Criação do DER. </li>
-    <blockquote align='center'> Acesse o Diagrama <a href='/DER.png'> clicando aqui </a> </blockquote>
+    <blockquote align='right'> Acesse o Diagrama <a href='/DER.png'> clicando aqui </a> </blockquote>
 <li> Criação das Tabelas </li>
-    <blockquote align='center'> Acesse o Script <a href='/create_tables.ipynb'> clicando aqui </a> </blockquote>
+    <blockquote align='right'> Acesse o Script <a href='/Script/Create%20Tables'> clicando aqui </a> </blockquote>
 
 
 
